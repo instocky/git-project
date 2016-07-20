@@ -3,6 +3,7 @@
   echo "Hello GIT";
   
   // комментарий
+  // comment master
   // comment new_f
 ?>
 

@@ -20,3 +20,13 @@ git commit -a -m"your comment"
 # command include
 # call notepad++ for comment command 'git commit *.php' in separeted window
 git config --global core.editor "'C:\Program Files (x86)\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
+# create branch and sweetched here
+git checkout -b new_f
+
+# how branch
+git branch
+
+# sweetched to branch
+git checkout new_f
+
