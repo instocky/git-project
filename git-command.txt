@@ -9,3 +9,9 @@ Q
 
 # show last commit and changed code
 git log -p -1
+
+# add files to INDEX after changed
+git add namefile
+
+# commit INDEXING file
+git commit -a -m"your comment"
