@@ -1,0 +1,4 @@
+# представление лога в читабельном формате
+git log --pretty=format:"%h = %an, %ar : %s"
+
+git log --pretty=format:"%h = %an, %ar : %s" --since=50.minute(day, week)
