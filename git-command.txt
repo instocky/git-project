@@ -1,4 +1,11 @@
-# представление лога в читабельном формате
+# log more readable %h - code commit %an - author %ar - time ago %s - message
 git log --pretty=format:"%h = %an, %ar : %s"
 
+# add key - last time week day...
 git log --pretty=format:"%h = %an, %ar : %s" --since=50.minute(day, week)
+
+# exit from log
+Q 
+
+# show last commit and changed code
+git log -p -1
