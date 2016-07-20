@@ -15,3 +15,5 @@ git add namefile
 
 # commit INDEXING file
 git commit -a -m"your comment"
+
+# editor no vim
