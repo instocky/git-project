@@ -5,5 +5,7 @@
   // комментарий
   // comment master
   // comment new_f
+  
+  // comment for GitHUB
 ?>
 
