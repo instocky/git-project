@@ -3,5 +3,6 @@
   echo "Hello GIT";
   
   // комментарий
+  // comment new_f
 ?>
 
